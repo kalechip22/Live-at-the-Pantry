@@ -1,0 +1,9 @@
+object category = {
+  category: "fruits"
+  items: [...] // list of ItemObjects
+}
+
+object item {
+  availability: "low" // use this to display status color
+  icon: image link
+}
